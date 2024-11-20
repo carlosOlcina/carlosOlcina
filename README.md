@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Carlos Olcina</h1>
 <h3 align="center">Soy un apasionado desarrollador full stack frontend</h3>
 
-- 🌱 Ahora mismo estoy aprendiendo **python, figma, angular**
+- 🌱 Ahora mismo estoy aprendiendo **Go, nextJS**
 
 - 👨‍💻 Todos mis proyectos están aquí: [https://portafolio-lake-sigma.vercel.app/#title-featured-proyects](https://portafolio-lake-sigma.vercel.app/#title-featured-proyects)
 
