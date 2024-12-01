@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, soy Carlos Olcina</h1>
 <h3 align="center">Soy un apasionado desarrollador full stack frontend</h3>
 
-- 🌱 Ahora mismo estoy aprendiendo **Go, nextJS**
+- 🌱 Ahora mismo estoy aprendiendo **Postgree**
 
-- 👨‍💻 Todos mis proyectos están aquí: [https://portafolio-lake-sigma.vercel.app/#title-featured-proyects](https://portafolio-lake-sigma.vercel.app/#title-featured-proyects)
+- 👨‍💻 Todos mis proyectos están en mi [portfolio](https://portfolio-carlosolcina.netlify.app)
 
 - 💬 Preguntame sobre **react, astro**
 
 - 📫 Contactame **carlosolcinadev@gmail.com**
 
-- 📄 Conoce mi experiencia [https://portafolio-lake-sigma.vercel.app/#title-experiencie](https://portafolio-lake-sigma.vercel.app/#title-experiencie)
+- 📄 Conoce mi [experiencia](https://portfolio-carlosolcina.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
