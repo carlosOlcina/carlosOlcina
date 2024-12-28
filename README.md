@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Carlos Olcina</h1>
 <h3 align="center">Soy un apasionado desarrollador full stack frontend</h3>
 
-- 🌱 Ahora mismo estoy aprendiendo **Flutter**
+- 🌱 Ahora mismo estoy aprendiendo **Kotlin**
 
 - 👨‍💻 Todos mis proyectos están en mi [portfolio](https://portfolio-carlosolcina.netlify.app)
 
