@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, soy Carlos Olcina</h1>
 <h3 align="center">Soy un apasionado desarrollador full stack frontend</h3>
 
-- 🌱 Ahora mismo estoy aprendiendo **Kotlin**
+- 🌱 Ahora mismo estoy aprendiendo **C#**
 
-- 👨‍💻 Todos mis proyectos están en mi [portfolio](https://portfolio-carlosolcina.netlify.app)
+- 👨‍💻 Todos mis proyectos están en mi [portfolio](https://portfolio-carlos-olcina.vercel.app/)
 
 - 💬 Preguntame sobre **react, astro**
 
 - 📫 Contactame **carlosolcinadev@gmail.com**
 
-- 📄 Conoce mi [experiencia](https://portfolio-carlosolcina.netlify.app)
+- 📄 Conoce mi [experiencia](https://portfolio-carlos-olcina.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
