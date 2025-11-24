@@ -3,7 +3,7 @@
 
 - 🌱 Ahora mismo estoy aprendiendo **C#**
 
-- 👨‍💻 Todos mis proyectos están en mi [portfolio](https://portfolio-carlos-olcina.vercel.app/)
+- 👨‍💻 Todos mis proyectos están en mi [portfolio](https://carlos-olcina.vercel.app/)
 
 - 💬 Preguntame sobre **react, astro**
 
