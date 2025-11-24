@@ -9,7 +9,7 @@
 
 - 📫 Contactame **carlosolcinadev@gmail.com**
 
-- 📄 Conoce mi [experiencia](https://portfolio-carlos-olcina.vercel.app/)
+- 📄 Conoce mi [experiencia](https://carlos-olcina.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
