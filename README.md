@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Carlos Olcina</h1>
 <h3 align="center">Soy un apasionado desarrollador full stack frontend</h3>
 
-- 🌱 Ahora mismo estoy aprendiendo **python**
+- 🌱 Ahora mismo estoy aprendiendo **angular**
 
 - 👨‍💻 Todos mis proyectos están en mi [portfolio](https://carlos-olcina.vercel.app/)
 
-- 💬 Preguntame sobre **react, astro**
+- 💬 Preguntame sobre **react, astro, nest js**
 
 - 📫 Contactame **carlosolcinadev@gmail.com**
 
