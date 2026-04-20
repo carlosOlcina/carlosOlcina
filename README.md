@@ -1,7 +1,7 @@
 # ¡Hola, soy Carlos! 👋
 
 ### 🚀 Sobre mí
-[//]: # - 🔭 Actualmente estoy trabajando en ****
+<!-- - 🔭 Actualmente estoy trabajando en ****) -->
 - 🌱 Estoy aprendiendo **Next.js y TypeScript**
 - 💬 Pregúntame sobre **React, CSS o UI/UX**
 - 📫 Cómo contactarme: **[carlosolcina23@gmail.com]**
