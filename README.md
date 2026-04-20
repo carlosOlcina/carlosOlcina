@@ -1,10 +1,10 @@
-# ¡Hola, soy [Carlos]! 👋
+# ¡Hola, soy Carlos! 👋
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en **[Nombre del Proyecto]**
+[//]: # - 🔭 Actualmente estoy trabajando en ****
 - 🌱 Estoy aprendiendo **Next.js y TypeScript**
 - 💬 Pregúntame sobre **React, CSS o UI/UX**
-- 📫 Cómo contactarme: **[tu-email@ejemplo.com]**
+- 📫 Cómo contactarme: **[carlosolcina23@gmail.com]**
 
 ---
 
